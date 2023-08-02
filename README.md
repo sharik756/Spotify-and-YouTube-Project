@@ -1,7 +1,5 @@
 # Spotify and YouTube Analysis Project
 
-![Spotify and YouTube Analysis](./img/spotify-youtube-analysis.jpg)
-
 ## Introduction
 
 Hi, I'm Sharik Chaudhary, and welcome to the Spotify and YouTube Analysis project! This project delves into the world of music and explores user behavior and music trends on both Spotify and YouTube.
